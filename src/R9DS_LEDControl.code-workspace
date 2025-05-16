@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "arduino",
+			"path": "../../../../../Desktop/embedded_workspace/traffic_light/arduino"
+		}
+	],
+	"settings": {}
+}
